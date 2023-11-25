@@ -6,6 +6,7 @@ DO NOT RUN THE lines of code creating the table if you already imported the Yale
 Import the YaleAdmits CSV file into your MySQL server, run each commented section to analyze and identify specific trends in the Yale Admissions Cycle.
 
 # Data Visualization
-Implemented Microsoft Power BI to demonstrate the relationship between legacy admit percentage and international admit percentage at Yale University throughout the years.
-![image](https://github.com/graysonlee33/YaleStats/assets/94801390/1d9b0d20-9792-4b3b-a969-b0e25b50fb7a)
+Implemented Microsoft Power BI to demonstrate multiple admission states regarding Yale University throughout the past 20 years. Created an interactive dashboard for users to identify common historical trends.
+![image](https://github.com/graysonlee33/YaleStats/assets/94801390/33e9510e-316a-42e7-aa3b-c983cabe0f0b)
+
 
